@@ -54,9 +54,6 @@ MIDDLEWARE = [
 ]
 
 
-AUTH_USER_MODEL = 'myapi.AdminUser'
-# AUTH_USER_MODEL = 'ProductList.MarketUser'
-
 
 
 CORS_ORIGIN_ALLOW_ALL = True
